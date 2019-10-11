@@ -3,3 +3,5 @@
 # ida files
 *.idb
 *.i64
+
+*.pyc
